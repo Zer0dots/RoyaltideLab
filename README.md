@@ -1,7 +1,7 @@
 <p align="center">
 
 
-  <img width="208" alt="Sponsored by Connamara" src="http://github.com/belimad/clawlite/blob/main/78390238-aed0-42fe-b8de-7d7d69ab8b1c.png">
+<img width="208" alt="ClawLite Logo" src="https://raw.githubusercontent.com/belimad/clawlite/main/78390238-aed0-42fe-b8de-7d7d69ab8b1c.png">
 
 </p>
 
