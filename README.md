@@ -30,6 +30,6 @@
 Clone the repository and initialize the hermetic environment via pnpm:
 
 ```bash
-git clone [https://github.com/GarrettBullish/clawgent.git](https://github.com/GarrettBullish/clawgent.git)
+git clone [https://github.com/belimad/clawgent.git](https://github.com/GarrettBullish/clawgent.git)
 cd clawgent
 pnpm install
