@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+ 
 ## Overview
 
 **ClawLite** is a stripped-down, local-first execution layer for the **OpenClaw** ecosystem. It is designed for developers who want the OpenClaw workflow without maintaining servers, distributed infrastructure, or long-running backend services.
