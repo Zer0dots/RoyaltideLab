@@ -1,4 +1,4 @@
-# 🦀 Clawgent: OpenClaw Autonomous Orchestrator
+# 🦀 ClawLite: Openclaw without the need for servers 
 
 **Comprehensive Version Control:** Curated dashboards ensuring reliability, consistency, and style-guide adherence across multi-team environments.
 
@@ -7,7 +7,7 @@
 ## 🏗️ System Overview
 **Clawgent** serves as the primary execution layer within the **OpenClaw** ecosystem. It utilizes a sophisticated agentic architecture to facilitate high-performance state management and autonomous decision-making. Designed for quantitative precision, Clawgent ensures seamless telemetry and cross-module synchronization for complex macro-economic and derivative modeling.
 
-<img width="208" alt="Sponsored by Connamara" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png">
+<img width="208" alt="Sponsored by Connamara" src="blob:https://gemini.google.com/571648d1-4add-45d7-887d-21fbf7d24f27">
 
 ## ⚡ Key Features (Isomorphic)
 
