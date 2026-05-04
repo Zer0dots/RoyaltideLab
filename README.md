@@ -9,7 +9,7 @@
 
 ---
 
-## 🤖 The AGI entity
+## 🤖 The AGI identity
 
 At its core, (real)AGI is an autonomous cognitive engine that operates beyond task-specific narrow AI. It maps high-dimensional sensory tokens directly into executable logical actions, treating environmental inputs as dynamic state spaces to be fully modeled, parsed, and mastered.
 
